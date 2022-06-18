@@ -1,0 +1,195 @@
+{
+    "states": [
+        {
+            "state": "Texas",
+            "stateCode": "TX",
+            "races": [
+                "Governor - Democrat",
+                "Governor - Republican"
+            ]
+        },
+        {
+            "state": "Indiana",
+            "stateCode": "IN",
+            "races": [
+                "Senate - Democrat",
+                "Senate - Republican"
+            ]
+        },
+        {
+            "state": "Ohio",
+            "stateCode": "OH",
+            "races": [
+                "Governor - Democrat",
+                "Governor - Republican",
+                "Senate - Democrat",
+                "Senate - Republican"
+            ]
+        },
+        {
+            "state": "Nebraska",
+            "stateCode": "NE",
+            "races": [
+                "Governor - Democrat",
+                "Governor - Republican"
+            ]
+        },
+        {
+            "state": "West Virginia",
+            "stateCode": "WV",
+            "races": [
+                "Other"
+            ]
+        },
+        {
+            "state": "Idaho",
+            "stateCode": "ID",
+            "races": [
+                "Governor - Democrat",
+                "Governor - Republican",
+                "Senate - Democrat",
+                "Senate - Republican"
+            ]
+        },
+        {
+            "state": "Kentucky",
+            "stateCode": "KY",
+            "races": [
+                "Senate - Democrat",
+                "Senate - Republican"
+            ]
+        },
+        {
+            "state": "North Carolina",
+            "stateCode": "NC",
+            "races": [
+                "Senate - Democrat",
+                "Senate - Republican"
+            ]
+        },
+        {
+            "state": "Oregon",
+            "stateCode": "OR",
+            "races": [
+                "Governor - Democrat",
+                "Governor - Republican",
+                "Senate - Democrat",
+                "Senate - Republican"
+            ]
+        },
+        {
+            "state": "Pennsylvania",
+            "stateCode": "PA",
+            "races": [
+                "Governor - Democrat",
+                "Governor - Republican",
+                "Senate - Democrat",
+                "Senate - Republican"
+            ]
+        },
+        {
+            "state": "Alabama",
+            "stateCode": "AL",
+            "races": [
+                "Governor - Democrat",
+                "Governor - Republican",
+                "Senate - Democrat",
+                "Senate - Republican"
+            ]
+        },
+        {
+            "state": "Arkansas",
+            "stateCode": "AR",
+            "races": [
+                "Governor - Democrat",
+                "Governor - Republican",
+                "Senate - Democrat",
+                "Senate - Republican"
+            ]
+        },
+        {
+            "state": "Georgia",
+            "stateCode": "GA",
+            "races": [
+                "Governor - Democrat",
+                "Governor - Republican",
+                "Senate - Democrat",
+                "Senate - Republican"
+            ]
+        },
+        {
+            "state": "California",
+            "stateCode": "CA",
+            "races": [
+                "Governor - Democrat",
+                "Governor - Republican",
+                "Senate - Democrat",
+                "Senate - Republican"
+            ]
+        },
+        {
+            "state": "Iowa",
+            "stateCode": "IA",
+            "races": [
+                "Governor - Democrat",
+                "Governor - Republican",
+                "Senate - Democrat",
+                "Senate - Republican"
+            ]
+        },
+        {
+            "state": "New Mexico",
+            "stateCode": "NM",
+            "races": [
+                "Governor - Democrat",
+                "Governor - Republican"
+            ]
+        },
+        {
+            "state": "South Dakota",
+            "stateCode": "SD",
+            "races": [
+                "Governor - Democrat",
+                "Governor - Republican",
+                "Senate - Democrat",
+                "Senate - Republican"
+            ]
+        },
+        {
+            "state": "Maine",
+            "stateCode": "ME",
+            "races": [
+                "Governor - Democrat",
+                "Governor - Republican"
+            ]
+        },
+        {
+            "state": "Nevada",
+            "stateCode": "NV",
+            "races": [
+                "Governor - Democrat",
+                "Governor - Republican",
+                "Senate - Democrat",
+                "Senate - Republican"
+            ]
+        },
+        {
+            "state": "North Dakota",
+            "stateCode": "ND",
+            "races": [
+                "Senate - Democrat",
+                "Senate - Republican"
+            ]
+        },
+        {
+            "state": "South Carolina",
+            "stateCode": "SC",
+            "races": [
+                "Governor - Democrat",
+                "Governor - Republican",
+                "Senate - Democrat",
+                "Senate - Republican"
+            ]
+        }
+    ]
+}
