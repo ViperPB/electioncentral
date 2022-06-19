@@ -4,7 +4,7 @@
             "state": "Texas",
             "stateCode": "TX",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican"
@@ -14,7 +14,7 @@
             "state": "Indiana",
             "stateCode": "IN",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":false,
             "races": [
                 "Senate - Democrat",
                 "Senate - Republican"
@@ -24,7 +24,7 @@
             "state": "Ohio",
             "stateCode": "OH",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -36,7 +36,7 @@
             "state": "Nebraska",
             "stateCode": "NE",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican"
@@ -46,7 +46,7 @@
             "state": "West Virginia",
             "stateCode": "WV",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":false,
             "races": [
                 "Other"
             ]
@@ -55,7 +55,7 @@
             "state": "Idaho",
             "stateCode": "ID",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -67,7 +67,7 @@
             "state": "Kentucky",
             "stateCode": "KY",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":false,
             "races": [
                 "Senate - Democrat",
                 "Senate - Republican"
@@ -77,7 +77,7 @@
             "state": "North Carolina",
             "stateCode": "NC",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":false,
             "races": [
                 "Senate - Democrat",
                 "Senate - Republican"
@@ -87,7 +87,7 @@
             "state": "Oregon",
             "stateCode": "OR",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -99,7 +99,7 @@
             "state": "Pennsylvania",
             "stateCode": "PA",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -111,7 +111,7 @@
             "state": "Alabama",
             "stateCode": "AL",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -123,7 +123,7 @@
             "state": "Arkansas",
             "stateCode": "AR",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -135,7 +135,7 @@
             "state": "Georgia",
             "stateCode": "GA",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -147,7 +147,7 @@
             "state": "California",
             "stateCode": "CA",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -159,7 +159,7 @@
             "state": "Iowa",
             "stateCode": "IA",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -171,7 +171,7 @@
             "state": "New Mexico",
             "stateCode": "NM",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican"
@@ -181,7 +181,7 @@
             "state": "South Dakota",
             "stateCode": "SD",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -193,7 +193,7 @@
             "state": "Maine",
             "stateCode": "ME",
             "show":true,
-            "isUncontested":true,
+            "isStillCounting":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican"
@@ -203,7 +203,7 @@
             "state": "Nevada",
             "stateCode": "NV",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":true,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -215,7 +215,7 @@
             "state": "North Dakota",
             "stateCode": "ND",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":true,
             "races": [
                 "Senate - Democrat",
                 "Senate - Republican"
@@ -225,7 +225,7 @@
             "state": "South Carolina",
             "stateCode": "SC",
             "show":true,
-            "isUncontested":false,
+            "isStillCounting":true,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
