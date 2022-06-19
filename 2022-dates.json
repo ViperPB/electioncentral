@@ -3,6 +3,8 @@
         {
             "state": "Texas",
             "stateCode": "TX",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican"
@@ -11,6 +13,8 @@
         {
             "state": "Indiana",
             "stateCode": "IN",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Senate - Democrat",
                 "Senate - Republican"
@@ -19,6 +23,8 @@
         {
             "state": "Ohio",
             "stateCode": "OH",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -29,6 +35,8 @@
         {
             "state": "Nebraska",
             "stateCode": "NE",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican"
@@ -37,6 +45,8 @@
         {
             "state": "West Virginia",
             "stateCode": "WV",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Other"
             ]
@@ -44,6 +54,8 @@
         {
             "state": "Idaho",
             "stateCode": "ID",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -54,6 +66,8 @@
         {
             "state": "Kentucky",
             "stateCode": "KY",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Senate - Democrat",
                 "Senate - Republican"
@@ -62,6 +76,8 @@
         {
             "state": "North Carolina",
             "stateCode": "NC",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Senate - Democrat",
                 "Senate - Republican"
@@ -70,6 +86,8 @@
         {
             "state": "Oregon",
             "stateCode": "OR",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -80,6 +98,8 @@
         {
             "state": "Pennsylvania",
             "stateCode": "PA",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -90,6 +110,8 @@
         {
             "state": "Alabama",
             "stateCode": "AL",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -100,6 +122,8 @@
         {
             "state": "Arkansas",
             "stateCode": "AR",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -110,6 +134,8 @@
         {
             "state": "Georgia",
             "stateCode": "GA",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -120,6 +146,8 @@
         {
             "state": "California",
             "stateCode": "CA",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -130,6 +158,8 @@
         {
             "state": "Iowa",
             "stateCode": "IA",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -140,6 +170,8 @@
         {
             "state": "New Mexico",
             "stateCode": "NM",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican"
@@ -148,6 +180,8 @@
         {
             "state": "South Dakota",
             "stateCode": "SD",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -158,6 +192,8 @@
         {
             "state": "Maine",
             "stateCode": "ME",
+            "show":true,
+            "isUncontested":true,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican"
@@ -166,6 +202,8 @@
         {
             "state": "Nevada",
             "stateCode": "NV",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -176,6 +214,8 @@
         {
             "state": "North Dakota",
             "stateCode": "ND",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Senate - Democrat",
                 "Senate - Republican"
@@ -184,6 +224,8 @@
         {
             "state": "South Carolina",
             "stateCode": "SC",
+            "show":true,
+            "isUncontest":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
