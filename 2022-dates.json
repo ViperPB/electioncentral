@@ -585,7 +585,7 @@
             "show":false,
             "isStillCounting":true,
             "races": [
-                "Local Races"
+                "Local Races (Not Reported)"
             ],
             "houseRaces": [
             ]
@@ -596,9 +596,11 @@
             "show":false,
             "isStillCounting":true,
             "races": [
-                "Uncovered House Races"
+                "View a House Race"
             ],
             "houseRaces": [
+                "VA-2 (R)",
+                "VA-7 (R)"
             ]
         }
     ]
