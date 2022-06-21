@@ -388,10 +388,8 @@
             "show":true,
             "isStillCounting":false,
             "races": [
-                "Governor - Democrat",
-                "Governor - Republican",
-                "Senate - Democrat",
-                "Senate - Republican",
+                "Senate",
+                "Governor",
                 "View a House Race"
             ],
             "houseRaces": [
