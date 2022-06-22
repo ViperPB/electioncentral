@@ -607,6 +607,33 @@
                 "VA-2 (R)",
                 "VA-7 (R)"
             ]
+        },
+        {
+            "state": "Georgia Runoffs",
+            "stateCode": "GA",
+            "show": true,
+            "isStillCounting": true,
+            "races": [
+                "LU",
+                "SSU"
+            ],
+            "houseRaces": [
+
+            ]
+        },
+        {
+            "state": "Alabama Runoffs",
+            "stateCode": "AL",
+            "show": true,
+            "isStillCounting": true,
+            "races": [
+                "SSV",
+                "SV",
+                "GU"
+            ],
+            "houseRaces": [
+
+            ]
         }
     ]
 }
