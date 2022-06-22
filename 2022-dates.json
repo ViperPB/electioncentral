@@ -580,7 +580,7 @@
             "state": "District of Columbia",
             "stateCode": "DC",
             "show":true,
-            "isStillCounting":true,
+            "isStillCounting":false,
             "races": [
                 "Local Races (Not Reported)"
             ],
