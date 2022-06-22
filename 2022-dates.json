@@ -522,7 +522,7 @@
             "state": "Nevada",
             "stateCode": "NV",
             "show":true,
-            "isStillCounting":true,
+            "isStillCounting":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -545,7 +545,7 @@
             "state": "North Dakota",
             "stateCode": "ND",
             "show":true,
-            "isStillCounting":true,
+            "isStillCounting":false,
             "races": [
                 "Senate - Democrat",
                 "Senate - Republican",
@@ -560,7 +560,7 @@
             "state": "South Carolina",
             "stateCode": "SC",
             "show":true,
-            "isStillCounting":true,
+            "isStillCounting":false,
             "races": [
                 "Governor - Democrat",
                 "Governor - Republican",
@@ -579,7 +579,7 @@
         {
             "state": "District of Columbia",
             "stateCode": "DC",
-            "show":false,
+            "show":true,
             "isStillCounting":true,
             "races": [
                 "Local Races (Not Reported)"
@@ -590,7 +590,7 @@
         {
             "state": "Virginia",
             "stateCode": "VA",
-            "show":false,
+            "show":true,
             "isStillCounting":true,
             "races": [
                 "View a House Race"
