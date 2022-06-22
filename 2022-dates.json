@@ -293,15 +293,15 @@
             "show": true,
             "isStillCounting": false,
             "races": [
+                "GU",
+                "SSV",
+                "SV",
                 "GD",
                 "GR",
-                "GU",
                 "SD",
                 "SR",
                 "AR",
                 "SSR",
-                "SSV",
-                "SV",
                 "View a House Race"
             ],
             "houseRaces": [
