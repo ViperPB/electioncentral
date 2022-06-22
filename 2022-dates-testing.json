@@ -1,0 +1,38 @@
+{
+    "states": [
+        {
+            "state": "Nevada",
+            "stateCode": "NV",
+            "show": true,
+            "isStillCounting": false,
+            "races": [ 
+                    {
+                        "code": "GD",
+                        "listName": "Governor - Democrat"
+                    },
+                    {
+                        "code": "GR",
+                        "listName": "Governor - Republican"
+                    },
+                    {
+                        "code": "SD",
+                        "listName": "Senate - Democrat"
+                    },
+                    {
+                        "code": "SR",
+                        "listName": "Senate - Republican"
+                    }
+                ],
+            "houseRaces": [
+                "NV-1 (R)",
+                "NV-2 (R)",
+                "NV-3 (R)",
+                "NV-4 (R)",
+                "NV-1 (D)",
+                "NV-2 (D)",
+                "NV-3 (D)",
+                "NV-4 (D)"
+            ]
+        }
+    ]
+}
