@@ -293,15 +293,15 @@
             "show": true,
             "isStillCounting": false,
             "races": [
-                "GU",\
-                "SSU",
-                "SV",
                 "GD",
                 "GR",
+                "GU",
                 "SD",
                 "SR",
                 "AR",
                 "SSR",
+                "SSV",
+                "SV",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -588,8 +588,8 @@
         {
             "state": "District of Columbia",
             "stateCode": "DC",
-            "show": false,
-            "isStillCounting": false,
+            "show": true,
+            "isStillCounting": true,
             "races": [
                 "Local Races (Not Reported)"
             ],
