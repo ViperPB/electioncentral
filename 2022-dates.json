@@ -3,11 +3,11 @@
         {
             "state": "Texas",
             "stateCode": "TX",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Governor - Democrat",
-                "Governor - Republican",
+                "GD",
+                "GR",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -30,11 +30,11 @@
         {
             "state": "Indiana",
             "stateCode": "IN",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Senate - Democrat",
-                "Senate - Republican",
+                "SD",
+                "SR",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -61,13 +61,13 @@
         {
             "state": "Ohio",
             "stateCode": "OH",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Governor - Democrat",
-                "Governor - Republican",
-                "Senate - Democrat",
-                "Senate - Republican",
+                "GD",
+                "GR",
+                "SD",
+                "SR",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -106,11 +106,11 @@
         {
             "state": "Nebraska",
             "stateCode": "NE",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Governor - Democrat",
-                "Governor - Republican",
+                "GD",
+                "GR",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -120,14 +120,13 @@
                 "NE-1 (D)",
                 "NE-2 (D)",
                 "NE-3 (D)"
-
             ]
         },
         {
             "state": "West Virginia",
             "stateCode": "WV",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
                 "View a House Race"
             ],
@@ -141,13 +140,13 @@
         {
             "state": "Idaho",
             "stateCode": "ID",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Governor - Democrat",
-                "Governor - Republican",
-                "Senate - Democrat",
-                "Senate - Republican",
+                "GD",
+                "GR",
+                "SD",
+                "SR",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -160,11 +159,11 @@
         {
             "state": "Kentucky",
             "stateCode": "KY",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Senate - Democrat",
-                "Senate - Republican",
+                "SD",
+                "SR",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -185,11 +184,11 @@
         {
             "state": "North Carolina",
             "stateCode": "NC",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Senate - Democrat",
-                "Senate - Republican"
+                "SD",
+                "SR"
             ],
             "houseRaces": [
                 "NC-1 (R)",
@@ -219,13 +218,13 @@
         {
             "state": "Oregon",
             "stateCode": "OR",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Governor - Democrat",
-                "Governor - Republican",
-                "Senate - Democrat",
-                "Senate - Republican",
+                "GD",
+                "GR",
+                "SD",
+                "SR",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -246,13 +245,13 @@
         {
             "state": "Pennsylvania",
             "stateCode": "PA",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Governor - Democrat",
-                "Governor - Republican",
-                "Senate - Democrat",
-                "Senate - Republican",
+                "GD",
+                "GR",
+                "SD",
+                "SR",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -291,13 +290,18 @@
         {
             "state": "Alabama",
             "stateCode": "AL",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Governor - Democrat",
-                "Governor - Republican",
-                "Senate - Democrat",
-                "Senate - Republican",
+                "GD",
+                "GR",
+                "GU",
+                "SD",
+                "SR",
+                "AR",
+                "SSR",
+                "SSV",
+                "SV",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -318,13 +322,13 @@
         {
             "state": "Arkansas",
             "stateCode": "AR",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Governor - Democrat",
-                "Governor - Republican",
-                "Senate - Democrat",
-                "Senate - Republican",
+                "GD",
+                "GR",
+                "SD",
+                "SR",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -341,13 +345,13 @@
         {
             "state": "Georgia",
             "stateCode": "GA",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Governor - Democrat",
-                "Governor - Republican",
-                "Senate - Democrat",
-                "Senate - Republican",
+                "GD",
+                "GR",
+                "SD",
+                "SR",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -379,17 +383,16 @@
                 "GA-12 (D)",
                 "GA-13 (D)",
                 "GA-14 (D)"
-
             ]
         },
         {
             "state": "California",
             "stateCode": "CA",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Senate",
-                "Governor",
+                "SX",
+                "GX",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -450,13 +453,13 @@
         {
             "state": "Iowa",
             "stateCode": "IA",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Governor - Democrat",
-                "Governor - Republican",
-                "Senate - Democrat",
-                "Senate - Republican",
+                "GD",
+                "GR",
+                "SD",
+                "SR",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -473,11 +476,11 @@
         {
             "state": "New Mexico",
             "stateCode": "NM",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Governor - Democrat",
-                "Governor - Republican"
+                "GD",
+                "GR"
             ],
             "houseRaces": [
                 "NM-1 (R)",
@@ -491,13 +494,13 @@
         {
             "state": "South Dakota",
             "stateCode": "SD",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Governor - Democrat",
-                "Governor - Republican",
-                "Senate - Democrat",
-                "Senate - Republican",
+                "GD",
+                "GR",
+                "SD",
+                "SR",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -507,11 +510,11 @@
         {
             "state": "Maine",
             "stateCode": "ME",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Governor - Democrat",
-                "Governor - Republican",
+                "GD",
+                "GR",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -521,13 +524,13 @@
         {
             "state": "Nevada",
             "stateCode": "NV",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Governor - Democrat",
-                "Governor - Republican",
-                "Senate - Democrat",
-                "Senate - Republican",
+                "GD",
+                "GR",
+                "SD",
+                "SR",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -544,11 +547,11 @@
         {
             "state": "North Dakota",
             "stateCode": "ND",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Senate - Democrat",
-                "Senate - Republican",
+                "SD",
+                "SR",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -559,12 +562,12 @@
         {
             "state": "South Carolina",
             "stateCode": "SC",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": false,
             "races": [
-                "Governor - Democrat",
-                "Governor - Republican",
-                "Senate - Democrat",
+                "GD",
+                "GR",
+                "SD",
                 "View a House Race"
             ],
             "houseRaces": [
@@ -579,19 +582,18 @@
         {
             "state": "District of Columbia",
             "stateCode": "DC",
-            "show":true,
-            "isStillCounting":false,
+            "show": true,
+            "isStillCounting": true,
             "races": [
                 "Local Races (Not Reported)"
             ],
-            "houseRaces": [
-            ]
+            "houseRaces": []
         },
         {
             "state": "Virginia",
             "stateCode": "VA",
-            "show":true,
-            "isStillCounting":true,
+            "show": true,
+            "isStillCounting": true,
             "races": [
                 "View a House Race"
             ],
