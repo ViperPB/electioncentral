@@ -599,7 +599,7 @@
             "state": "Virginia",
             "stateCode": "VA",
             "show": true,
-            "isStillCounting": true,
+            "isStillCounting": false,
             "races": [
                 "View a House Race"
             ],
@@ -612,7 +612,7 @@
             "state": "Georgia Runoffs",
             "stateCode": "GA",
             "show": true,
-            "isStillCounting": true,
+            "isStillCounting": false,
             "races": [
                 "LU",
                 "SSU"
@@ -625,7 +625,7 @@
             "state": "Alabama Runoffs",
             "stateCode": "AL",
             "show": true,
-            "isStillCounting": true,
+            "isStillCounting": false,
             "races": [
                 "SSV",
                 "SV",
@@ -633,6 +633,138 @@
             ],
             "houseRaces": [
 
+            ]
+        },
+        {
+            "state": "Colorado",
+            "stateCode": "CO",
+            "show": true,
+            "isStillCounting": true,
+            "races": [
+                "GD",
+                "GR",
+                "SD",
+                "SR",
+                "View a House Race"
+            ],
+            "houseRaces": [
+                "CO-1 (R)",
+                "CO-2 (R)",
+                "CO-3 (R)",
+                "CO-4 (R)",
+                "CO-5 (R)",
+                "CO-6 (R)",
+                "CO-7 (R)",
+                "CO-8 (R)",
+                "CO-1 (D)",
+                "CO-2 (D)",
+                "CO-3 (D)",
+                "CO-4 (D)",
+                "CO-5 (D)",
+                "CO-6 (D)",
+                "CO-7 (D)",
+                "CO-8 (D)"
+            ]
+        },
+        {
+            "state": "Illinois",
+            "stateCode": "IL",
+            "show": true,
+            "isStillCounting": true,
+            "races": [
+                "GD",
+                "GR",
+                "SD",
+                "SR",
+                "SSR",
+                "SSD",
+                "AR",
+                "View a House Race"
+            ],
+            "houseRaces": [
+                "IL-1 (R)",
+                "IL-2 (R)",
+                "IL-3 (R)",
+                "IL-4 (R)",
+                "IL-5 (R)",
+                "IL-6 (R)",
+                "IL-7 (R)",
+                "IL-8 (R)",
+                "IL-9 (R)",
+                "IL-10 (R)",
+                "IL-12 (R)",
+                "IL-13 (R)",
+                "IL-14 (R)",
+                "IL-15 (R)",
+                "IL-16 (R)",
+                "IL-17 (R)",
+                "IL-1 (D)",
+                "IL-2 (D)",
+                "IL-3 (D)",
+                "IL-4 (D)",
+                "IL-5 (D)",
+                "IL-6 (D)",
+                "IL-7 (D)",
+                "IL-8 (D)",
+                "IL-9 (D)",
+                "IL-10 (D)",
+                "IL-12 (D)",
+                "IL-13 (D)",
+                "IL-14 (D)",
+                "IL-15 (D)",
+                "IL-16 (D)",
+                "IL-17 (D)"
+            ]
+        },
+        {
+            "state": "New York",
+            "stateCode": "NY",
+            "show": true,
+            "isStillCounting": true,
+            "races": [
+                "GD",
+                "GR",
+                "LD"
+            ],
+            "houseRaces": [
+            
+            ]
+        },
+        {
+            "state": "Oklahoma",
+            "stateCode": "OK",
+            "show": true,
+            "isStillCounting": true,
+            "races": [
+                "GD",
+                "GR",
+                "SD",
+                "SR",
+                "S2R",
+                "AD",
+                "View a House Race"
+            ],
+            "houseRaces": [
+                "OK-2 (R)",
+                "OK-3 (R)",
+                "OK-4 (R)",
+                "OK-5 (R)"
+            ]
+        },
+        {
+            "state": "Utah",
+            "stateCode": "UT",
+            "show": true,
+            "isStillCounting": true,
+            "races": [
+                "SR",
+                "View a House Race"
+            ],
+            "houseRaces": [
+                "UT-1 (R)",
+                "UT-2 (R)",
+                "UT-3 (R)",
+                "UT-4 (R)"                
             ]
         }
     ]
