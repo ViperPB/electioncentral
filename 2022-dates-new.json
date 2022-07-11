@@ -639,7 +639,7 @@
             "state": "Colorado",
             "stateCode": "CO",
             "show": true,
-            "isStillCounting": true,
+            "isStillCounting": false,
             "races": [
                 "GD",
                 "GR",
@@ -670,7 +670,7 @@
             "state": "Illinois",
             "stateCode": "IL",
             "show": true,
-            "isStillCounting": true,
+            "isStillCounting": false,
             "races": [
                 "GD",
                 "GR",
@@ -720,7 +720,7 @@
             "state": "New York",
             "stateCode": "NY",
             "show": true,
-            "isStillCounting": true,
+            "isStillCounting": false,
             "races": [
                 "GD",
                 "GR",
@@ -734,7 +734,7 @@
             "state": "Oklahoma",
             "stateCode": "OK",
             "show": true,
-            "isStillCounting": true,
+            "isStillCounting": false,
             "races": [
                 "GD",
                 "GR",
@@ -755,7 +755,7 @@
             "state": "Utah",
             "stateCode": "UT",
             "show": true,
-            "isStillCounting": true,
+            "isStillCounting": false,
             "races": [
                 "SR",
                 "View a House Race"
@@ -765,6 +765,22 @@
                 "UT-2 (R)",
                 "UT-3 (R)",
                 "UT-4 (R)"                
+            ]
+        },
+        {
+            "state": "Maryland",
+            "stateCode": "MD",
+            "show": false,
+            "isStillCounting": false,
+            "races": [
+                "GR",
+                "GD",
+                "SR",
+                "SD",
+                "View a House Race"
+            ],
+            "houseRaces": [
+                "TBA"            
             ]
         }
     ]
