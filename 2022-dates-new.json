@@ -770,7 +770,7 @@
         {
             "state": "Maryland",
             "stateCode": "MD",
-            "show": false,
+            "show": true,
             "isStillCounting": false,
             "races": [
                 "GR",
@@ -780,7 +780,22 @@
                 "View a House Race"
             ],
             "houseRaces": [
-                "TBA"            
+                "MD-1 (R)",
+                "MD-2 (R)",
+                "MD-3 (R)",
+                "MD-4 (R)",
+                "MD-5 (R)",
+                "MD-6 (R)",
+                "MD-7 (R)",
+                "MD-8 (R)",
+                "MD-1 (D)",
+                "MD-2 (D)",
+                "MD-3 (D)",
+                "MD-4 (D)",
+                "MD-5 (D)",
+                "MD-6 (D)",
+                "MD-7 (D)",
+                "MD-8 (D)"           
             ]
         }
     ]
