@@ -1062,11 +1062,10 @@
             "isStillCounting": false,
             "races": [
                 "SX",
-                "GX",
-                "HX"
+                "GX"
             ],
             "houseRaces": [
-    
+                "HX"
             ]
         },
         {
