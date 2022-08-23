@@ -1062,10 +1062,11 @@
             "isStillCounting": false,
             "races": [
                 "SX",
-                "GX"
+                "GX",
+                "HX"
             ],
             "houseRaces": [
-                "HX"
+    
             ]
         },
         {
@@ -1082,6 +1083,21 @@
             "houseRaces": [
                 "WY-1 (R)",
                 "WY-1 (D)"     
+            ]
+        },
+        {
+            "state": "Florida",
+            "stateCode": "FL",
+            "show": false,
+            "isStillCounting": true,
+            "races": [
+                "GR",
+                "GD",
+                "SR",
+                "SD",
+                "House Races Pending"
+            ],
+            "houseRaces": [  
             ]
         }
     ]
