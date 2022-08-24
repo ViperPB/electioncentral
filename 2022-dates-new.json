@@ -1091,11 +1091,8 @@
             "show": true,
             "isStillCounting": true,
             "races": [
-                "GR",
                 "GD",
-                "SR",
-                "SD",
-                "House Races Pending"
+                "SD"
             ],
             "houseRaces": [  
             ]
