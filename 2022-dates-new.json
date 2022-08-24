@@ -1088,7 +1088,7 @@
         {
             "state": "Florida",
             "stateCode": "FL",
-            "show": false,
+            "show": true,
             "isStillCounting": true,
             "races": [
                 "GR",
