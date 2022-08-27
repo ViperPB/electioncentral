@@ -1089,7 +1089,7 @@
             "state": "Florida",
             "stateCode": "FL",
             "show": true,
-            "isStillCounting": true,
+            "isStillCounting": false,
             "races": [
                 "GD",
                 "SD"
