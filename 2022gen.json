@@ -1,0 +1,852 @@
+{
+    "states": [
+        {
+            "state": "Texas",
+            "stateCode": "TX",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG"
+            ],
+            "houseRaces": [
+
+            ]
+        },
+        {
+            "state": "Indiana",
+            "stateCode": "IN",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "SG"
+            ],
+            "houseRaces": [
+
+            ]
+        },
+        {
+            "state": "Ohio",
+            "stateCode": "OH",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GV",
+                "SV"
+            ],
+            "houseRaces": [
+                "OH-1",
+                "OH-2",
+                "OH-3",
+                "OH-4",
+                "OH-5",
+                "OH-6",
+                "OH-7",
+                "OH-8",
+                "OH-9",
+                "OH-10",
+                "OH-11",
+                "OH-12",
+                "OH-13",
+                "OH-14",
+                "OH-15"
+            ]
+        },
+        {
+            "state": "Nebraska",
+            "stateCode": "NE",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GV"
+            ],
+            "houseRaces": [
+                "NE-1",
+                "NE-2",
+                "NE-3"
+            ]
+        },
+        {
+            "state": "West Virginia",
+            "stateCode": "WV",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                
+            ],
+            "houseRaces": [
+
+            ]
+        },
+        {
+            "state": "Idaho",
+            "stateCode": "ID",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "SG"
+            ],
+            "houseRaces": [
+            ]
+        },
+        {
+            "state": "Kentucky",
+            "stateCode": "KY",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "SG"
+            ],
+            "houseRaces": [
+
+            ]
+        },
+        {
+            "state": "North CAGolina",
+            "stateCode": "NC",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "SG"
+            ],
+            "houseRaces": [
+
+            ]
+        },
+        {
+            "state": "Oregon",
+            "stateCode": "OR",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "SG"
+            ],
+            "houseRaces": [
+
+            ]
+        },
+        {
+            "state": "Pennsylvania",
+            "stateCode": "PA",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "SG"
+            ],
+            "houseRaces": [
+
+            ]
+        },
+        {
+            "state": "Alabama",
+            "stateCode": "AL",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "SSG",
+                "SG",
+                "GG",
+                "AG"
+            ],
+            "houseRaces": [
+
+            ]
+        },
+        {
+            "state": "AGkansas",
+            "stateCode": "AG",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "SG"
+            ],
+            "houseRaces": [
+
+            ]
+        },
+        {
+            "state": "Georgia",
+            "stateCode": "GA",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "LG",
+                "SSG",
+                "GG",
+                "SG"
+            ],
+            "houseRaces": [
+                "GA-1",
+                "GA-2",
+                "GA-3",
+                "GA-4",
+                "GA-5",
+                "GA-6",
+                "GA-7",
+                "GA-8",
+                "GA-9",
+                "GA-10",
+                "GA-11",
+                "GA-12",
+                "GA-13",
+                "GA-14"
+            ]
+        },
+        {
+            "state": "California",
+            "stateCode": "CA",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "SG",
+                "GG"
+            ],
+            "houseRaces": [
+                "CA-1",
+                "CA-2",
+                "CA-3",
+                "CA-4",
+                "CA-5",
+                "CA-6",
+                "CA-7",
+                "CA-8",
+                "CA-9",
+                "CA-10",
+                "CA-11",
+                "CA-12",
+                "CA-13",
+                "CA-14",
+                "CA-15",
+                "CA-16",
+                "CA-17",
+                "CA-18",
+                "CA-19",
+                "CA-20",
+                "CA-21",
+                "CA-22",
+                "CA-23",
+                "CA-24",
+                "CA-25",
+                "CA-26",
+                "CA-27",
+                "CA-28",
+                "CA-29",
+                "CA-30",
+                "CA-31",
+                "CA-32",
+                "CA-33",
+                "CA-34",
+                "CA-35",
+                "CA-36",
+                "CA-37",
+                "CA-38",
+                "CA-39",
+                "CA-40",
+                "CA-41",
+                "CA-42",
+                "CA-43",
+                "CA-44",
+                "CA-45",
+                "CA-46",
+                "CA-47",
+                "CA-48",
+                "CA-49",
+                "CA-50",
+                "CA-51",
+                "CA-52"
+            ]
+        },
+        {
+            "state": "Iowa",
+            "stateCode": "IA",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "SG"
+            ],
+            "houseRaces": [
+
+            ]
+        },
+        {
+            "state": "New Mexico",
+            "stateCode": "NM",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG"
+            ],
+            "houseRaces": [
+
+            ]
+        },
+        {
+            "state": "South Dakota",
+            "stateCode": "SD",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "SG"
+            ],
+            "houseRaces": [
+
+            ]
+        },
+        {
+            "state": "Maine",
+            "stateCode": "ME",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG"
+            ],
+            "houseRaces": [
+
+            ]
+        },
+        {
+            "state": "NevAGa",
+            "stateCode": "NV",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "SG"
+            ],
+            "houseRaces": [
+                "NV-1",
+                "NV-2",
+                "NV-3",
+                "NV-4"
+            ]
+        },
+        {
+            "state": "North Dakota",
+            "stateCode": "ND",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "SG"
+            ],
+            "houseRaces": [
+                "ND-1"
+            ]
+        },
+        {
+            "state": "South CAGolina",
+            "stateCode": "SC",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "SG"
+            ],
+            "houseRaces": [
+            ]
+        },
+        {
+            "state": "District of Columbia",
+            "stateCode": "DC",
+            "show": false,
+            "isStillCounting": false,
+            "races": [
+                "Local Races (Not Reported)"
+            ],
+            "houseRaces": []
+        },
+        {
+            "state": "Virginia",
+            "stateCode": "VA",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+ 
+            ],
+            "houseRaces": [
+                "VA-2 (R)",
+                "VA-7 (R)"
+            ]
+        },
+        {
+            "state": "Georgia Runoffs",
+            "stateCode": "GA",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "LU",
+                "SSU"
+            ],
+            "houseRaces": [
+
+            ]
+        },
+        {
+            "state": "Alabama Runoffs",
+            "stateCode": "AL",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "SSV",
+                "SV",
+                "GU"
+            ],
+            "houseRaces": [
+
+            ]
+        },
+        {
+            "state": "ColorAGo",
+            "stateCode": "CO",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "GG",
+                "SG",
+                "SG"
+            ],
+            "houseRaces": [
+                "CO-1 (R)",
+                "CO-2 (R)",
+                "CO-3 (R)",
+                "CO-4 (R)",
+                "CO-5 (R)",
+                "CO-6 (R)",
+                "CO-7 (R)",
+                "CO-8 (R)",
+                "CO-1 (D)",
+                "CO-2 (D)",
+                "CO-3 (D)",
+                "CO-4 (D)",
+                "CO-5 (D)",
+                "CO-6 (D)",
+                "CO-7 (D)",
+                "CO-8 (D)"
+            ]
+        },
+        {
+            "state": "Illinois",
+            "stateCode": "IL",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "GG",
+                "SG",
+                "SG",
+                "SSG",
+                "SSG",
+                "AG"
+            ],
+            "houseRaces": [
+                "IL-1 (R)",
+                "IL-2 (R)",
+                "IL-3 (R)",
+                "IL-4 (R)",
+                "IL-5 (R)",
+                "IL-6 (R)",
+                "IL-7 (R)",
+                "IL-8 (R)",
+                "IL-9 (R)",
+                "IL-10 (R)",
+                "IL-12 (R)",
+                "IL-13 (R)",
+                "IL-14 (R)",
+                "IL-15 (R)",
+                "IL-16 (R)",
+                "IL-17 (R)",
+                "IL-1 (D)",
+                "IL-2 (D)",
+                "IL-3 (D)",
+                "IL-4 (D)",
+                "IL-5 (D)",
+                "IL-6 (D)",
+                "IL-7 (D)",
+                "IL-8 (D)",
+                "IL-9 (D)",
+                "IL-10 (D)",
+                "IL-12 (D)",
+                "IL-13 (D)",
+                "IL-14 (D)",
+                "IL-15 (D)",
+                "IL-16 (D)",
+                "IL-17 (D)"
+            ]
+        },
+        {
+            "state": "New York",
+            "stateCode": "NY",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "GG",
+                "LD"
+            ],
+            "houseRaces": [
+            
+            ]
+        },
+        {
+            "state": "Oklahoma",
+            "stateCode": "OK",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "GG",
+                "SG",
+                "SG",
+                "S2R",
+                "AG"
+            ],
+            "houseRaces": [
+                "OK-2 (R)",
+                "OK-3 (R)",
+                "OK-4 (R)",
+                "OK-5 (R)"
+            ]
+        },
+        {
+            "state": "Utah",
+            "stateCode": "UT",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "SG"
+            ],
+            "houseRaces": [
+                "UT-1 (R)",
+                "UT-2 (R)",
+                "UT-3 (R)",
+                "UT-4 (R)"                
+            ]
+        },
+        {
+            "state": "MAGyland",
+            "stateCode": "MD",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "GG",
+                "SG",
+                "SG"
+            ],
+            "houseRaces": [
+                "MD-1 (R)",
+                "MD-2 (R)",
+                "MD-3 (R)",
+                "MD-4 (R)",
+                "MD-5 (R)",
+                "MD-6 (R)",
+                "MD-7 (R)",
+                "MD-8 (R)",
+                "MD-1 (D)",
+                "MD-2 (D)",
+                "MD-3 (D)",
+                "MD-4 (D)",
+                "MD-5 (D)",
+                "MD-6 (D)",
+                "MD-7 (D)",
+                "MD-8 (D)"           
+            ]
+        },
+        {
+            "state": "AGizona",
+            "stateCode": "AZ",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "GG",
+                "SG",
+                "SG",
+                "SSG",
+                "SSG",
+                "AG",
+                "AG"
+            ],
+            "houseRaces": [
+                "AZ-1 (R)",
+                "AZ-2 (R)",
+                "AZ-3 (R)",
+                "AZ-4 (R)",
+                "AZ-5 (R)",
+                "AZ-6 (R)",
+                "AZ-7 (R)",
+                "AZ-8 (R)",
+                "AZ-9 (R)",
+                "AZ-1 (D)",
+                "AZ-2 (D)",
+                "AZ-3 (D)",
+                "AZ-4 (D)",
+                "AZ-5 (D)",
+                "AZ-6 (D)",
+                "AZ-7 (D)"        
+            ]
+        },
+        {
+            "state": "Kansas",
+            "stateCode": "KS",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "GG",
+                "SG",
+                "SG",
+                "SSG",
+                "SSG",
+                "AG",
+                "AG"
+            ],
+            "houseRaces": [
+                "KS-1 (R)",
+                "KS-2 (R)",
+                "KS-3 (R)",
+                "KS-4 (R)",
+                "KS-1 (D)",
+                "KS-2 (D)",
+                "KS-3 (D)",
+                "KS-4 (D)"  
+            ]
+        },
+        {
+            "state": "Michigan",
+            "stateCode": "MI",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "GG"
+            ],
+            "houseRaces": [
+                "MI-1 (R)",
+                "MI-2 (R)",
+                "MI-3 (R)",
+                "MI-4 (R)",
+                "MI-5 (R)",
+                "MI-6 (R)",
+                "MI-7 (R)",
+                "MI-8 (R)",
+                "MI-9 (R)",
+                "MI-10 (R)",
+                "MI-11 (R)",
+                "MI-12 (R)",
+                "MI-13 (R)",
+                "MI-1 (D)",
+                "MI-2 (D)",
+                "MI-3 (D)",
+                "MI-4 (D)",
+                "MI-5 (D)",
+                "MI-6 (D)",
+                "MI-7 (D)",
+                "MI-8 (D)",
+                "MI-9 (D)",
+                "MI-10 (D)",
+                "MI-11 (D)",
+                "MI-12 (D)",
+                "MI-13 (D)"       
+            ]
+        },
+        {
+            "state": "Missouri",
+            "stateCode": "MO",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "SG",
+                "SG"
+            ],
+            "houseRaces": [
+                "MO-1 (R)",
+                "MO-2 (R)",
+                "MO-3 (R)",
+                "MO-4 (R)",
+                "MO-5 (R)",
+                "MO-6 (R)",
+                "MO-7 (R)",
+                "MO-8 (R)",
+                "MO-1 (D)",
+                "MO-2 (D)",
+                "MO-3 (D)",
+                "MO-4 (D)",
+                "MO-5 (D)",
+                "MO-6 (D)",
+                "MO-7 (D)",
+                "MO-8 (D)"      
+            ]
+        },
+        {
+            "state": "Washington",
+            "stateCode": "WA",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "SX",
+                "SSX"
+            ],
+            "houseRaces": [
+                "WA-1",
+                "WA-2",
+                "WA-3",
+                "WA-4",
+                "WA-5",
+                "WA-6",
+                "WA-7",
+                "WA-8",
+                "WA-9",
+                "WA-10"
+            ]
+        },
+        {
+            "state": "Connecticut",
+            "stateCode": "CT",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "SG",
+                "SSG",
+                "SSG"
+            ],
+            "houseRaces": [
+                "CT-4 (R)"    
+            ]
+        },
+        {
+            "state": "Minnesota",
+            "stateCode": "MN",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "GG",
+                "SSG",
+                "SSG",
+                "AG",
+                "AG"
+            ],
+            "houseRaces": [
+                "MN-1 (R)",
+                "MN-2 (R)",
+                "MN-3 (R)",
+                "MN-4 (R)",
+                "MN-5 (R)",
+                "MN-6 (R)",
+                "MN-7 (R)",
+                "MN-8 (R)",
+                "MN-1 (D)",
+                "MN-2 (D)",
+                "MN-3 (D)",
+                "MN-4 (D)",
+                "MN-5 (D)",
+                "MN-6 (D)",
+                "MN-7 (D)",
+                "MN-8 (D)"        
+            ]
+        },
+        {
+            "state": "Vermont",
+            "stateCode": "VT",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "GG",
+                "SG",
+                "SG",
+                "SSG",
+                "SSG",
+                "LR",
+                "LD",
+                "AG",
+                "AG"
+            ],
+            "houseRaces": [
+                "VT-1 (R)",
+                "VT-1 (D)"     
+            ]
+        },
+        {
+            "state": "Wisconsin",
+            "stateCode": "WI",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "GG",
+                "SG",
+                "SG",
+                "SSG",
+                "SSG",
+                "AG",
+                "AG"
+            ],
+            "houseRaces": [
+                "WI-1 (R)",
+                "WI-2 (R)",
+                "WI-3 (R)",
+                "WI-4 (R)",
+                "WI-5 (R)",
+                "WI-6 (R)",
+                "WI-7 (R)",
+                "WI-8 (R)",
+                "WI-1 (D)",
+                "WI-2 (D)",
+                "WI-3 (D)",
+                "WI-4 (D)",
+                "WI-5 (D)",
+                "WI-7 (D)"        
+            ]
+        },
+        {
+            "state": "Alaska",
+            "stateCode": "AK",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "SG",
+                "GG",
+                "HG"
+            ],
+            "houseRaces": [
+    
+            ]
+        },
+        {
+            "state": "Wyoming",
+            "stateCode": "WY",
+            "show": true,
+            "isStillCounting": false,
+            "races": [
+                "GG",
+                "GG",
+                "SSG"
+            ],
+            "houseRaces": [
+                "WY-1 (R)",
+                "WY-1 (D)"     
+            ]
+        },
+        {
+            "state": "Florida",
+            "stateCode": "FL",
+            "show": false,
+            "isStillCounting": true,
+            "races": [
+                "GG",
+                "GG",
+                "SG",
+                "SG"
+            ],
+            "houseRaces": [  
+            ]
+        }
+    ]
+}
