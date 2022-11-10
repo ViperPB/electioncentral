@@ -102,7 +102,7 @@
             ]
         },
         {
-            "state": "North CAGolina",
+            "state": "North Carolina",
             "stateCode": "NC",
             "show": true,
             "isStillCounting": false,
@@ -155,7 +155,7 @@
             ]
         },
         {
-            "state": "AGkansas",
+            "state": "Arkansas",
             "stateCode": "AG",
             "show": true,
             "isStillCounting": false,
@@ -310,7 +310,7 @@
             ]
         },
         {
-            "state": "NevAGa",
+            "state": "Nevada",
             "stateCode": "NV",
             "show": true,
             "isStillCounting": false,
@@ -338,7 +338,7 @@
             ]
         },
         {
-            "state": "South CAGolina",
+            "state": "South Carolina",
             "stateCode": "SC",
             "show": true,
             "isStillCounting": false,
@@ -348,16 +348,6 @@
             ],
             "houseRaces": [
             ]
-        },
-        {
-            "state": "District of Columbia",
-            "stateCode": "DC",
-            "show": false,
-            "isStillCounting": false,
-            "races": [
-                "Local Races (Not Reported)"
-            ],
-            "houseRaces": []
         },
         {
             "state": "Virginia",
@@ -373,34 +363,7 @@
             ]
         },
         {
-            "state": "Georgia Runoffs",
-            "stateCode": "GA",
-            "show": true,
-            "isStillCounting": false,
-            "races": [
-                "LU",
-                "SSU"
-            ],
-            "houseRaces": [
-
-            ]
-        },
-        {
-            "state": "Alabama Runoffs",
-            "stateCode": "AL",
-            "show": true,
-            "isStillCounting": false,
-            "races": [
-                "SSG",
-                "SG",
-                "GU"
-            ],
-            "houseRaces": [
-
-            ]
-        },
-        {
-            "state": "ColorAGo",
+            "state": "Colorado",
             "stateCode": "CO",
             "show": true,
             "isStillCounting": false,
@@ -528,7 +491,7 @@
             ]
         },
         {
-            "state": "MAGyland",
+            "state": "Maryland",
             "stateCode": "MD",
             "show": true,
             "isStillCounting": false,
