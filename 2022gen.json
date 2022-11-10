@@ -369,7 +369,6 @@
             "isStillCounting": false,
             "races": [
                 "GG",
-                "GG",
                 "SG",
                 "SG"
             ],
@@ -399,10 +398,7 @@
             "isStillCounting": false,
             "races": [
                 "GG",
-                "GG",
                 "SG",
-                "SG",
-                "SSG",
                 "SSG",
                 "AG"
             ],
@@ -448,8 +444,7 @@
             "isStillCounting": false,
             "races": [
                 "GG",
-                "GG",
-                "LD"
+                "LG"
             ],
             "houseRaces": [
             
@@ -462,10 +457,8 @@
             "isStillCounting": false,
             "races": [
                 "GG",
-                "GG",
                 "SG",
-                "SG",
-                "S2R",
+                "S2G",
                 "AG"
             ],
             "houseRaces": [
@@ -497,8 +490,6 @@
             "isStillCounting": false,
             "races": [
                 "GG",
-                "GG",
-                "SG",
                 "SG"
             ],
             "houseRaces": [
@@ -527,12 +518,8 @@
             "isStillCounting": false,
             "races": [
                 "GG",
-                "GG",
-                "SG",
                 "SG",
                 "SSG",
-                "SSG",
-                "AG",
                 "AG"
             ],
             "houseRaces": [
@@ -561,12 +548,8 @@
             "isStillCounting": false,
             "races": [
                 "GG",
-                "GG",
-                "SG",
                 "SG",
                 "SSG",
-                "SSG",
-                "AG",
                 "AG"
             ],
             "houseRaces": [
@@ -586,7 +569,6 @@
             "show": true,
             "isStillCounting": false,
             "races": [
-                "GG",
                 "GG"
             ],
             "houseRaces": [
@@ -624,7 +606,6 @@
             "show": true,
             "isStillCounting": false,
             "races": [
-                "SG",
                 "SG"
             ],
             "houseRaces": [
@@ -652,8 +633,8 @@
             "show": true,
             "isStillCounting": false,
             "races": [
-                "SX",
-                "SSX"
+                "SG",
+                "SSG"
             ],
             "houseRaces": [
                 "WA-1",
@@ -675,7 +656,6 @@
             "isStillCounting": false,
             "races": [
                 "SG",
-                "SSG",
                 "SSG"
             ],
             "houseRaces": [
@@ -689,29 +669,12 @@
             "isStillCounting": false,
             "races": [
                 "GG",
-                "GG",
-                "SSG",
                 "SSG",
                 "AG",
                 "AG"
             ],
             "houseRaces": [
-                "MN-1 (R)",
-                "MN-2 (R)",
-                "MN-3 (R)",
-                "MN-4 (R)",
-                "MN-5 (R)",
-                "MN-6 (R)",
-                "MN-7 (R)",
-                "MN-8 (R)",
-                "MN-1 (D)",
-                "MN-2 (D)",
-                "MN-3 (D)",
-                "MN-4 (D)",
-                "MN-5 (D)",
-                "MN-6 (D)",
-                "MN-7 (D)",
-                "MN-8 (D)"        
+
             ]
         },
         {
@@ -721,14 +684,9 @@
             "isStillCounting": false,
             "races": [
                 "GG",
-                "GG",
-                "SG",
                 "SG",
                 "SSG",
-                "SSG",
-                "LR",
-                "LD",
-                "AG",
+                "LG",
                 "AG"
             ],
             "houseRaces": [
@@ -743,29 +701,12 @@
             "isStillCounting": false,
             "races": [
                 "GG",
-                "GG",
-                "SG",
                 "SG",
                 "SSG",
-                "SSG",
-                "AG",
                 "AG"
             ],
             "houseRaces": [
-                "WI-1 (R)",
-                "WI-2 (R)",
-                "WI-3 (R)",
-                "WI-4 (R)",
-                "WI-5 (R)",
-                "WI-6 (R)",
-                "WI-7 (R)",
-                "WI-8 (R)",
-                "WI-1 (D)",
-                "WI-2 (D)",
-                "WI-3 (D)",
-                "WI-4 (D)",
-                "WI-5 (D)",
-                "WI-7 (D)"        
+      
             ]
         },
         {
@@ -789,7 +730,6 @@
             "isStillCounting": false,
             "races": [
                 "GG",
-                "GG",
                 "SSG"
             ],
             "houseRaces": [
@@ -804,8 +744,6 @@
             "isStillCounting": false,
             "races": [
                 "GG",
-                "GG",
-                "SG",
                 "SG"
             ],
             "houseRaces": [  
