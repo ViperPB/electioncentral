@@ -22,8 +22,7 @@
       "isStillCounting": false,
       "races": [
         "SG",
-        "GG",
-        "HG"
+        "GG"
       ],
       "houseRaces": [
 
@@ -143,7 +142,6 @@
       "isStillCounting": false,
       "races": [
         "GG",
-        "SG",
         "SG"
       ],
       "houseRaces": [
@@ -237,7 +235,8 @@
       "show": "true",
       "isStillCounting": false,
       "races": [
-        
+        "SG",
+        "GG"
       ],
       "houseRaces": [
 
@@ -367,7 +366,7 @@
       "show": "true",
       "isStillCounting": false,
       "races": [
-        
+        "SG"
       ],
       "houseRaces": [
 
@@ -602,7 +601,8 @@
       "isStillCounting": false,
       "races": [
         "GG",
-        "LG"
+        "LG",
+        "SG"
       ],
       "houseRaces": [
 
