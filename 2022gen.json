@@ -30,8 +30,8 @@
             "show": true,
             "isStillCounting": false,
             "races": [
-                "GV",
-                "SV"
+                "GG",
+                "SG"
             ],
             "houseRaces": [
                 "OH-1",
@@ -57,7 +57,7 @@
             "show": true,
             "isStillCounting": false,
             "races": [
-                "GV"
+                "GG"
             ],
             "houseRaces": [
                 "NE-1",
@@ -391,8 +391,8 @@
             "show": true,
             "isStillCounting": false,
             "races": [
-                "SSV",
-                "SV",
+                "SSG",
+                "SG",
                 "GU"
             ],
             "houseRaces": [
@@ -558,7 +558,7 @@
             ]
         },
         {
-            "state": "AGizona",
+            "state": "Arizona",
             "stateCode": "AZ",
             "show": true,
             "isStillCounting": false,
@@ -837,8 +837,8 @@
         {
             "state": "Florida",
             "stateCode": "FL",
-            "show": false,
-            "isStillCounting": true,
+            "show": "true",
+            "isStillCounting": false,
             "races": [
                 "GG",
                 "GG",
